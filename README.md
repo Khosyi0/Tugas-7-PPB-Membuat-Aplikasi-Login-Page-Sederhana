@@ -1,1 +1,7 @@
-# Tugas-7-PPB-Membuat-Aplikasi-Login-Page-Sederhana
+Achmad Khosyi' Assajjad Ramandanta
+
+
+5025211007
+
+
+Pemrograman Perangkat Bergerak (D)
